@@ -1,0 +1,12 @@
+INFO: ------------ Starting ------------
+INFO: Reading file: C:\Users\julia\Documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\bin\Release\Padron_arf_segundo_trimestre2018.txt
+ERROR: System.IO.FileNotFoundException: Could not find file 'C:\Users\julia\Documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\bin\Release\Padron_arf_segundo_trimestre2018.txt'.
+File name: 'C:\Users\julia\Documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\bin\Release\Padron_arf_segundo_trimestre2018.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Boolean detectEncodingFromByteOrderMarks)
+   at AFIP.Padron.PadronService.ReadPadron() in c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\PadronService.cs:line 23
+   at AFIP.Padron.Program.Main(String[] args) in c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\Program.cs:line 20

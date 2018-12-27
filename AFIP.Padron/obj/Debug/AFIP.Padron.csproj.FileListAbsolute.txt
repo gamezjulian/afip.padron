@@ -1,0 +1,13 @@
+c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\bin\Debug\AFIP.Padron.exe.config
+c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\obj\Debug\AFIP.Padron.csprojResolveAssemblyReference.cache
+c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\bin\Debug\AFIP.Padron.exe
+c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\bin\Debug\AFIP.Padron.pdb
+c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\obj\Debug\AFIP.Padron.exe
+c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\obj\Debug\AFIP.Padron.pdb
+C:\Users\gamez\Desktop\AFIP.Padron\AFIP.Padron\bin\Debug\AFIP.Padron.exe.config
+C:\Users\gamez\Desktop\AFIP.Padron\AFIP.Padron\obj\Debug\AFIP.Padron.exe
+C:\Users\gamez\Desktop\AFIP.Padron\AFIP.Padron\obj\Debug\AFIP.Padron.pdb
+C:\Users\gamez\Desktop\AFIP.Padron\AFIP.Padron\bin\Debug\App.config
+C:\Users\gamez\Desktop\AFIP.Padron\AFIP.Padron\bin\Debug\AFIP.Padron.exe
+C:\Users\gamez\Desktop\AFIP.Padron\AFIP.Padron\bin\Debug\AFIP.Padron.pdb
+C:\Users\gamez\Desktop\AFIP.Padron\AFIP.Padron\obj\Debug\AFIP.Padron.csprojResolveAssemblyReference.cache

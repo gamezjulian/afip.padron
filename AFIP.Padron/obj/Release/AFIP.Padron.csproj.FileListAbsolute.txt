@@ -1,0 +1,16 @@
+c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\bin\Release\AFIP.Padron.exe.config
+c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\bin\Release\AFIP.Padron.exe
+c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\bin\Release\AFIP.Padron.pdb
+c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\obj\Release\AFIP.Padron.exe
+c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\obj\Release\AFIP.Padron.pdb
+c:\users\julia\documents\visual studio 2015\Projects\AFIP.Padron\AFIP.Padron\bin\Release\App.config
+C:\Users\gamez\Desktop\AFIP.Padron\AFIP.Padron\bin\Release\AFIP.Padron.exe.config
+C:\Users\gamez\Desktop\AFIP.Padron\AFIP.Padron\obj\Release\AFIP.Padron.exe
+C:\Users\gamez\Desktop\AFIP.Padron\AFIP.Padron\obj\Release\AFIP.Padron.pdb
+C:\Users\gamez\Downloads\AFIP.Padron\AFIP.Padron\bin\Release\AFIP.Padron.exe.config
+C:\Users\gamez\Downloads\AFIP.Padron\AFIP.Padron\obj\Release\AFIP.Padron.exe
+C:\Users\gamez\Downloads\AFIP.Padron\AFIP.Padron\obj\Release\AFIP.Padron.pdb
+C:\Users\gamez\Downloads\AFIP.Padron\AFIP.Padron\bin\Release\App.config
+C:\Users\gamez\Downloads\AFIP.Padron\AFIP.Padron\bin\Release\AFIP.Padron.exe
+C:\Users\gamez\Downloads\AFIP.Padron\AFIP.Padron\bin\Release\AFIP.Padron.pdb
+C:\Users\gamez\Downloads\AFIP.Padron\AFIP.Padron\obj\Release\AFIP.Padron.csprojResolveAssemblyReference.cache
